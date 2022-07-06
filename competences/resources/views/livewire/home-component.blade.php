@@ -136,14 +136,14 @@
                     <div class="form-row">
                       <div class="col-md-6 mb-3">
                         <label style="color:black;font-size:20px" for="validationTooltip01" style="color:black;font-size:20px">First name</label>
-                        <input type="text" class="form-control" id="validationTooltip01" placeholder="First name" value="firstName" required>
+                        <input type="text" class="form-control" id="validationTooltip01" placeholder="First name"  required>
                         <div class="valid-tooltip">
                           Looks good!
                         </div>
                       </div>
                       <div class="col-md-6 mb-3">
                         <label style="color:black;font-size:20px" for="validationTooltip02">Last name</label>
-                        <input type="text" class="form-control" id="validationTooltip02" placeholder="Last name" value="LastName" required>
+                        <input type="text" class="form-control" id="validationTooltip02" placeholder="Last name"  required>
                         <div class="valid-tooltip">
                           Looks good!
                         </div>
